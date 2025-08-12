@@ -1,0 +1,42 @@
+What is ORO?	
+Our mission is to empower you to capture the unprecedented value of your data in the age of AI.	
+ORO is a decentralized platform that fairly compensates you when you contribute your data to AI’s advancement.	
+"It puts your privacy first and control in your hands, and it’s built to make your data work for you – not big tech."	
+What problem does ORO solve?	
+AI has hit a wall.	
+"Publicly available data is running dry, and companies need high-quality private data to reach the next frontier of intelli gence."	
+But most of it remains inaccessible.	
+"That's where you come in. Every day, you generate the kind of rich, real-world data AI needs."	
+ORO bridges this gap so you can get fairly compensated when you contribute your data to help AI get smarter.	
+"Plus, our privacy-preserving technology ensures your personal information stays protected while it powers the future of in telligence."	
+How does ORO help shape a decentralized future?	
+ORO’s privacy-preserving technology creates a vault where data is processed using cryptography (zkTLS) and secure computeenvironments (TEEs).	
+This cutting-edge technique ensures only the new and improved models – never your actual data – leave the vault.	
+"This also means your data’s integrity and scarcity are preserved, and your personal information stays protected."	
+"What’s more, on-chain validation and scoring mechanisms make ORO transparent and trustless,"	
+so your contributions are properly tracked and compensation	
+How does ORO protect my data?	
+ORO’s privacy-preserving technology creates a vault where data is processed using cryptography (zkTLS) and secure compute environments (TEEs).	
+This cutting-edge technique ensures only the new and improved models – never your actual data – leave the vault.	
+"This also means your data’s integrity and scarcity are preserved, and your personal information stays protected."	
+"What’s more, on-chain validation and scoring mechanisms make ORO transparent and trustless,"	
+so your contributions are properly tracked and compensation is always fairly returned back to you.	
+How is my data used?	
+Your data fuels cutting-edge AI advancement while ORO’s breakthrough technology keeps your privacy completely protected.	
+"By sharing through ORO, you directly contribute to world-changing innovations,"	
+"including helping medical research detect health issues earlier, and assisting language models to better understand human communication"	.
+"Unlike traditional big tech that passively extracts your information, you become an active participant in ORO’s world,"	
+"helping shape the AI landscape. With ORO, you’re not just providing data – you're driving discovery and innovation,"	
+while being properly rewarded for your contribution.	
+What are ORO points?	
+ORO points are the rewards you earn every time you share your data.	
+"These points will determine your ORO token rewards, which fairly compensate you for the value your data creates."	
+There are two ways to earn points:	
+Core activities: Link your accounts (like social and/or health) and complete in-app quests	
+"Amplifiers: Boost your earnings through engagement, consistency and community participation"	
+"Through ORO’s points-earning system, you're rewarded for your contributions, empowering you to be an active participant I n fueling the evolution of AI."	
+How do I earn points faster?	
+"The ORO experience runs in 3-month seasons. At each season's end, the top 10% of users on our leaderboard will receive excl usive NFTs."	
+"Then the competition resets, and everyone starts fresh for the next season."	
+"Every action you take builds your point total, increasing your chances to land in that valuable top 10%. The more you parti cipate"	
+the more you can earn – and directly reap the benefits for your contribution to AI innovation.	
